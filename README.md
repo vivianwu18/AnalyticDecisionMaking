@@ -6,9 +6,8 @@ In the realm of decision-making, it is crucial to grasp the fundamental aspects 
 - Hotel La Quinta Motor Inns (LQM)
 - Matching for a Dating Platform
 
-## Non-Linear Optimimzation
-
 ## Stochastic Optimization
+- Price/ Discount Optimization
 
 --------
 Course Instructor: Prof. Olivier Rubel
